@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className="flex items-center gap-6">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 bg-accent rounded-lg flex items-center justify-center">
-            <span className="text-accent-foreground font-bold text-sm">TM</span>
+            <span className="text-accent-foreground font-bold text-sm">GS</span>
           </div>
           <h1 className="text-xl font-bold text-foreground">GatiSutra</h1>
         </div>
