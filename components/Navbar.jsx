@@ -10,7 +10,7 @@ export default function Navbar() {
           <div className="w-8 h-8 bg-accent rounded-lg flex items-center justify-center">
             <span className="text-accent-foreground font-bold text-sm">TM</span>
           </div>
-          <h1 className="text-xl font-bold text-foreground">Smart Traffic Control</h1>
+          <h1 className="text-xl font-bold text-foreground">GatiSutra</h1>
         </div>
 
         <div className="relative">
