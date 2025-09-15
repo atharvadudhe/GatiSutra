@@ -3,11 +3,10 @@ export default function Footer() {
     <footer className="bg-card border-t border-border px-6 py-4">
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-6">
-          <p className="text-sm text-muted-foreground">© 2024 Smart Traffic Management System - SIH Prototype</p>
+          <p className="text-sm text-muted-foreground">© 2025 GatiSutra</p>
           <div className="flex items-center gap-4 text-xs text-muted-foreground">
             <span>Version 1.0.0</span>
             <span>•</span>
-            <span>Last Updated: {new Date().toLocaleDateString()}</span>
           </div>
         </div>
 
